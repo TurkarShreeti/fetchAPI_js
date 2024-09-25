@@ -19,8 +19,9 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/pokemon-image-fetcher.git
+git clone https://github.com/TurkarShreeti/fetchAPI_js.git
 Open the index.html file in your browser.
+
 API
 This project uses the PokéAPI to fetch Pokémon data.
 
